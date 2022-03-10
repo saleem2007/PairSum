@@ -11,7 +11,7 @@ public class Main {
 	                if ((num[i] + num[j]) == target) {
 	                    System.out.println("Match found the Pairs are " + num[i] + ", " + num[j]) ;
 	                } else {
-	                    System.out.println("not there");
+	                    System.out.println("Pairs are not there !!!!!!");
 	                }
 	            }
 	        }
